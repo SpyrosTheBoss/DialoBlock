@@ -1,0 +1,80 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "1.16.5"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "7b04a3fb-d951-442e-9a82-ed98e0eff681",
+  "authenticationDatabase": {
+    "spilol2": {
+      "displayName": "spilol2",
+      "accessToken": "null",
+      "userid": "spilol2",
+      "uuid": "86ad9328-9382-3dc2-b667-c79e8775153a",
+      "username": "spilol2"
+    },
+    "c9f7ad3794ba35b5ae295c9dafdcd619": {
+      "displayName": "DialoBlock",
+      "accessToken": "null",
+      "userid": "DialoBlock",
+      "uuid": "c9f7ad37-94ba-35b5-ae29-5c9dafdcd619",
+      "username": "DialoBlock"
+    },
+    "97f537b19cf938889e39e97550353131": {
+      "displayName": "spmaga",
+      "accessToken": "null",
+      "userid": "spmaga",
+      "uuid": "97f537b1-9cf9-3888-9e39-e97550353131",
+      "username": "spmaga"
+    },
+    "f468a7be5e813ec8a55fe4a230c1f2f6": {
+      "displayName": "spyrostheboss",
+      "accessToken": "null",
+      "userid": "spyrostheboss",
+      "uuid": "f468a7be-5e81-3ec8-a55f-e4a230c1f2f6",
+      "username": "spyrostheboss"
+    },
+    "484f2e9e1b36352b9feeacbfffb6d578": {
+      "displayName": "EJESSAISPORN",
+      "accessToken": "null",
+      "userid": "EJESSAISPORN",
+      "uuid": "484f2e9e-1b36-352b-9fee-acbfffb6d578",
+      "username": "EJESSAISPORN"
+    },
+    "spyrostheboss": {
+      "displayName": "spyrostheboss",
+      "accessToken": "null",
+      "userid": "spyrostheboss",
+      "uuid": "f468a7be-5e81-3ec8-a55f-e4a230c1f2f6",
+      "username": "spyrostheboss"
+    },
+    "86ad932893823dc2b667c79e8775153a": {
+      "displayName": "spilol2",
+      "accessToken": "null",
+      "userid": "spilol2",
+      "uuid": "86ad9328-9382-3dc2-b667-c79e8775153a",
+      "username": "spilol2"
+    },
+    "DialoBlock": {
+      "displayName": "DialoBlock",
+      "userid": "DialoBlock",
+      "uuid": "c9f7ad37-94ba-35b5-ae29-5c9dafdcd619",
+      "username": "DialoBlock"
+    },
+    "EJESSAISPORN": {
+      "displayName": "EJESSAISPORN",
+      "accessToken": "null",
+      "userid": "EJESSAISPORN",
+      "uuid": "484f2e9e-1b36-352b-9fee-acbfffb6d578",
+      "username": "EJESSAISPORN"
+    }
+  },
+  "selectedUser": "DialoBlock",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16,
+    "profilesFormat": 1
+  }
+}
